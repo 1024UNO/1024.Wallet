@@ -1,0 +1,24 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=1024
+GenericName=1024 wallet
+Name[uk]=1024
+Name[ru]=1024
+Name[pl]=1024
+Name[be]=1024
+Name[de]=1024
+Name[es]=1024
+Comment=1024 wallet
+Comment[uk]=Гаманець 1024
+Comment[ru]=Кошелек 1024
+Comment[pl]=Portfel 1024
+Comment[be]=Кашалёк 1024
+Comment[de]=1024 Brieftasche
+Comment[es]=1024 Monedero
+Exec=1024 %U
+Terminal=false
+Type=Application
+Icon=1024
+MimeType=x-scheme-handler/1024;
+Categories=Office;Finance;
+Version=1.0.0
